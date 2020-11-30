@@ -1,0 +1,8 @@
+<!ELEMENT flower EMPTY>
+<!ELEMENT flowerShop (flower*)>
+
+<!ATTLIST flower
+        title CDATA #REQUIRED
+        type CDATA #REQUIRED
+        color CDATA #REQUIRED
+        cost CDATA #REQUIRED>

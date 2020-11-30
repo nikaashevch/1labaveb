@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE flowerShop SYSTEM "somedtd.dtd">
+
+<flowerShop>
+    <flower title="Rose" type="1 type" color="Red" cost="300"/>
+    <flower title="Rose" type="2 type" color="Red" cost="350"/>
+    <flower title="Rose" type="3 type" color="Red" cost="370"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="1 type" color="White" cost="10"/>
+    <flower title="Dandelion" type="2 type" color="Yellow" cost="20"/>
+    <flower title="Dandelion" type="3 type" color="Yellow" cost="25"/>
+    <flower title="Chamomile" type="1 type" color="White" cost="50"/>
+    <flower title="Chamomile" type="2 type" color="White" cost="75"/>
+</flowerShop>
